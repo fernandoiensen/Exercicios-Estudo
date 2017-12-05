@@ -1,1 +1,1 @@
-# *Exercicios* que executei para estudo.
+# *Exercicios* e projetos que executei para estudo.
